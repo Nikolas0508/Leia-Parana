@@ -1,15 +1,33 @@
-# DECLARAÇÃO DE DIREITOS AUTORAIS
-Eu, Mr001, declaro para os devidos fins que o script denominado “Lei Paraná” é de minha autoria, sendo protegido pela Lei de Direitos Autorais (Lei nº 9.610/98).
+# Leia Nikolas
 
-Fica expressamente proibida a cópia, reprodução, modificação, distribuição ou qualquer forma de utilização total ou parcial do referido script sem autorização prévia e por escrito do autor.
+Ferramenta criada para a plataforma Leia Paraná, focada em melhorar a usabilidade e agilizar interações dentro do sistema.
 
-O uso indevido da obra poderá resultar na adoção das medidas legais cabíveis.
+## 📌 Sobre
 
-Todos os direitos reservados.
+O Leia Nikolas é um bookmarklet que executa funções diretamente na página da plataforma Leia Paraná, sem necessidade de instalação.
 
-Curitiba, 02 de março de 2026.
+## ⚙️ Como usar
 
-Mr001
+1. Salve o script como um favorito no navegador
+2. Acesse a plataforma Leia Paraná
+3. Execute o bookmarklet clicando nele
+4. As melhorias serão ativadas automaticamente
 
+## 🚀 Funcionalidades
 
-Credit: mzzvm
+* Automatização de tarefas
+* Melhor navegação
+* Ajustes na interface
+
+## 🧩 Tecnologias
+
+* JavaScript
+* Manipulação de elementos da página
+
+## ⚠️ Aviso
+
+Este projeto é independente e não possui vínculo com a plataforma Leia Paraná.
+
+## 📄 Licença
+
+NikolasP
